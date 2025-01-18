@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OleksandrShenhera1
+- 👋 Hi, I’m @Oleksandr
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
 - 📫 How to reach me oleksandrshengera@gmail.com
